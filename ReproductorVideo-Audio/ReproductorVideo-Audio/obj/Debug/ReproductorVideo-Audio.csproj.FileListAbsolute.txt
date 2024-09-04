@@ -1,0 +1,15 @@
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\bin\Debug\ReproductorVideo-Audio.exe.config
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\bin\Debug\ReproductorVideo-Audio.exe
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\bin\Debug\ReproductorVideo-Audio.pdb
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\bin\Debug\Interop.WMPLib.dll
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\obj\Debug\ReproductorVideo-Audio.csproj.AssemblyReference.cache
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\obj\Debug\ReproductorVideo-Audio.csproj.ResolveComReference.cache
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\obj\Debug\ReproductorVideo_Audio.Form1.resources
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\obj\Debug\ReproductorVideo_Audio.Properties.Resources.resources
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\obj\Debug\ReproductorVideo-Audio.csproj.GenerateResource.cache
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\obj\Debug\ReproductorVideo-Audio.csproj.CoreCompileInputs.cache
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\obj\Debug\ReproductorVideo-Audio.exe
+C:\Users\estef\source\repos\ReproductorVideo-Audio\ReproductorVideo-Audio\obj\Debug\ReproductorVideo-Audio.pdb
